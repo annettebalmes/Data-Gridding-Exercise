@@ -1,6 +1,6 @@
 # Data-Gridding-Exercise
 
-Uploading above is the orgiinal dataset, different file types of my code, as well as my final map and presentation that I will use to explain my solution.
+Uploading above is the orginal dataset, different file types of my code, as well as my final map and presentation that I will use to explain my solution.
 
 You will notice:
 -Full Version Files
